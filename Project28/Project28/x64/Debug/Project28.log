@@ -1,0 +1,3 @@
+﻿  Project28.c
+D:\review_c_code1\Project28\Project28.c(25,19): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  Project28.vcxproj -> D:\review_c_code1\Project28\x64\Debug\Project28.exe
