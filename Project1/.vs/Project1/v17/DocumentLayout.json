@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\review_c_code1\\code_1\\",
+  "WorkspaceRootPath": "D:\\review_c_code1\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43740371-AED6-4A85-B80A-E29F74B8177F}|code_1.vcxproj|D:\\review_c_code1\\code_1\\code_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{43740371-AED6-4A85-B80A-E29F74B8177F}|code_1.vcxproj|solutionrelative:code_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\review_c_code1\\Project1\\Project_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "code_1.c",
-              "DocumentMoniker": "D:\\review_c_code1\\code_1\\code_1.c",
-              "RelativeDocumentMoniker": "code_1.c",
-              "ToolTip": "D:\\review_c_code1\\code_1\\code_1.c",
-              "RelativeToolTip": "code_1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Title": "Project_1.c",
+              "DocumentMoniker": "D:\\review_c_code1\\Project1\\Project_1.c",
+              "RelativeDocumentMoniker": "Project_1.c",
+              "ToolTip": "D:\\review_c_code1\\Project1\\Project_1.c",
+              "RelativeToolTip": "Project_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-23T13:23:16.77Z",
+              "WhenOpened": "2025-07-23T14:09:22.978Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
