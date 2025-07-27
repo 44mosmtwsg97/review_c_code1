@@ -1,0 +1,3 @@
+﻿  Project8.c
+D:\review_c_code1\Project8\Project8.c(13,1): warning C4715: “hs”: 不是所有的控件路径都返回值
+  Project8.vcxproj -> D:\review_c_code1\Project8\x64\Debug\Project8.exe
