@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,10 +37,6 @@
               "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Project4.c",
@@ -48,10 +44,14 @@
               "RelativeDocumentMoniker": "Project4.c",
               "ToolTip": "D:\\review_c_code1\\Project5\\Project4.c",
               "RelativeToolTip": "Project4.c",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAC4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-26T12:25:53.729Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
             }
           ]
         }
