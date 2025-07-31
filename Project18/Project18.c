@@ -17,7 +17,8 @@ int main()
 			printf("%d", i);
 			for (int k = 1; k < i; k++)
 				if (0 == i % k)
-					printf("%d", k);
+					printf("%2d", k);
+			printf("\n");
 		}
 
 	}
